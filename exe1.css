@@ -1,0 +1,35 @@
+body{
+	background-color: silver;
+	text-align: left;
+}
+.Container{
+	background-color: white;
+	width: 80%;
+	min-height: 800px;
+	height: auto;
+	margin: 0 auto;
+}
+.Nav{
+	background-color: grey;
+	color: black;
+	width: 100%;
+	height: 50px;
+}
+.Header{
+	background-color: red;
+	color: yellow;
+	width: 100%;
+	height: 150px;
+}
+.Section{
+	background-color: cyan;
+	color: black;
+	width: 100%;
+	height:500px;
+}
+.Footer{
+	background-color: yellow;
+	color: red;
+	width: 100%;
+	height: 100px;
+}

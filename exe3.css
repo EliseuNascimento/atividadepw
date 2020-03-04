@@ -1,0 +1,45 @@
+body{
+	background-color: blue;
+	text-align: left;
+}
+.Container{
+	background-color: grey;
+	width: 80%;
+	min-height: 1560px;
+	height: auto;
+	margin: 0 auto;
+}
+.Nav{
+	background-color: pink;
+	color: black;
+	width: 100%;
+	height: 30px;
+	float: right;
+}	
+.Header{
+	background-color: grey;
+	color: black
+	width: 100%;
+	height: 150px;
+}
+.Section{
+	background-color: red;
+	color: black;
+	width: 100%;
+	height: 470px;
+	float: left;
+}
+.Section2{
+	background-color: yellow;
+	color: black;
+	width: 100%;
+	height: 470px;
+	float: left; 
+}
+.Section3{
+	background-color: green;
+	color: black;
+	width: 100%;
+	height: 470px;
+	float: left;
+}
